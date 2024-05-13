@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width",initial-scale=1.0" />
+        <link rel="stylesheet" href="CSSm/style.css"/>
+        <title>medium</title>
+    </head>
+
+    <body>
+        <header class="container1">
+            <div class="medium">
+                <img class="mediumlogo" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" alt="logo" height="25" width="160"/>
+            </div>
+            <nav class="icon">
+                <ul>
+                    <li>🔍</li>
+                    <li><img src="assets/bookmark.svg" alt="bookmark"></li>
+                    <li>🔔</li>
+                    <li><button type="button">Resume membership</button></li>
+                    <li>💾</li>
+                </ul>
+            </nav>
+        </header>    
+
+        <main class="container2">
+            <section class="sinistra">
+                <div class="card">
+                    <div class="testo">
+                        <span><b>FOLLOWING</b></span> <span><b>RECOMMENDED FOR YOU</b></span> <br>
+                        <span class="profilo"><img src="https://img.freepik.com/free-vector/colorful-bird-illustration-gradient_343694-1741.jpg?w=826&t=st=1715509138~exp=1715509738~hmac=bac321bca512b46d2d5e3ee9c47fd1dc54ced03da66dda4ba1d2d12d118bd862" alt="logo" width="20" height="20" <h4>Kolby Sisk in Udacity Eng & Data</h4></span>
+                        <h3>React state management in 2022. Return of the
+                        Redux</h3>
+                        <p>At the beginning of the year if you told me l'd be publishing a
+                            recommendation to use Redux I would have laughed in your face. Yet her.</p>
+                        <div class="down">
+                            <span>Dec 3</span>
+                            <span class="punto">·</span>
+                            <span>4 min read</span>
+                            <span class="punto">·</span>
+                            <span class="react">react</span>
+                            <span class="popular">Popular on Medium</span>
+                            <img src="assets/star.svg" alt="star">
+                        </div>
+                    </div>
+                        <img src="assets/bookmark.svg" alt="bookmark">
+                    <div class="image">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZ0AATtj613h5wWZSkfuqlDxZmzRiQssnwPtmT4rYSA&s" alt="return foto">
+                    </div>
+                </div>
+            
+                <div class="card2">
+                    <span><b>FOLLOWING</b></span> <span><b>RECOMMENDED FOR YOU</b></span> <br>
+                    <span class="profilo"><img src="https://img.freepik.com/free-vector/colorful-bird-illustration-gradient_343694-1741.jpg?w=826&t=st=1715509138~exp=1715509738~hmac=bac321bca512b46d2d5e3ee9c47fd1dc54ced03da66dda4ba1d2d12d118bd862" alt="logo" width="20" height="20" <h4>Kolby Sisk in Udacity Eng & Data</h4></span>
+                    <h3>React state management in 2022. Return of the
+                    Redux</h3>
+                    <p>At the beginning of the year if you told me l'd be publishing a
+                        recommendation to use Redux I would have laughed in your face. Yet her.</p>
+                    <div class="down">
+                        <span>Dec 3</span>
+                        <span class="punto">·</span>
+                        <span>4 min read</span>
+                        <span class="punto">·</span>
+                        <span class="react">react</span>
+                        <span class="popular">Popular on Medium</span>
+                        <img src="assets/star.svg" alt="star">
+                    </div>
+                    <img src="assets/bookmark.svg" alt="bookmark">
+                    <div class="image">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZ0AATtj613h5wWZSkfuqlDxZmzRiQssnwPtmT4rYSA&s" alt="return foto">
+                    </div>
+                </div>
+
+                <div class="card3">
+                    <div class="testo">
+                        <span><b>FOLLOWING</b></span> <span><b>RECOMMENDED FOR YOU</b></span> <br>
+                        <span class="profilo"><img src="https://img.freepik.com/free-vector/colorful-bird-illustration-gradient_343694-1741.jpg?w=826&t=st=1715509138~exp=1715509738~hmac=bac321bca512b46d2d5e3ee9c47fd1dc54ced03da66dda4ba1d2d12d118bd862" alt="logo" width="20" height="20" <h4>Kolby Sisk in Udacity Eng & Data</h4></span>
+                        <h3>React state management in 2022. Return of the
+                        Redux</h3>
+                        <p>At the beginning of the year if you told me l'd be publishing a
+                            recommendation to use Redux I would have laughed in your face. Yet her.</p>
+                        <div class="down">
+                            <span>Dec 3</span>
+                            <span class="punto">·</span>
+                            <span>4 min read</span>
+                            <span class="punto">·</span>
+                            <span class="react">react</span>
+                            <span class="popular">Popular on Medium</span>
+                            <img src="assets/star.svg" alt="star">
+                        </div>
+                    </div>
+                        <img src="assets/bookmark.svg" alt="bookmark">
+                    <div class="image">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZ0AATtj613h5wWZSkfuqlDxZmzRiQssnwPtmT4rYSA&s" alt="return foto">
+                    </div>
+                </div>
+
+                <div class="card4">
+                    <span><b>FOLLOWING</b></span> <span><b>RECOMMENDED FOR YOU</b></span> <br>
+                    <span class="profilo"><img src="https://img.freepik.com/free-vector/colorful-bird-illustration-gradient_343694-1741.jpg?w=826&t=st=1715509138~exp=1715509738~hmac=bac321bca512b46d2d5e3ee9c47fd1dc54ced03da66dda4ba1d2d12d118bd862" alt="logo" width="20" height="20" <h4>Kolby Sisk in Udacity Eng & Data</h4></span>
+                    <h3>React state management in 2022. Return of the
+                    Redux</h3>
+                    <p>At the beginning of the year if you told me l'd be publishing a
+                        recommendation to use Redux I would have laughed in your face. Yet her.</p>
+                    <div class="down">
+                        <span>Dec 3</span>
+                        <span class="punto">·</span>
+                        <span>4 min read</span>
+                        <span class="punto">·</span>
+                        <span class="react">react</span>
+                        <span class="popular">Popular on Medium</span>
+                        <img src="assets/star.svg" alt="star">
+                    </div>
+                    <img src="assets/bookmark.svg" alt="bookmark">
+                    <div class="image">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZ0AATtj613h5wWZSkfuqlDxZmzRiQssnwPtmT4rYSA&s" alt="return foto"> 
+                    </div>
+                
+                </div>
+            </section>
+              
+            <section class="destra">
+                <div class="social">
+                    <span class="twitter">
+                        <p>Medium writes you already follow on twitter</p>
+                        <button1 type="button"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" src="logo twitter" height="60cm" width="60CM"/>ghfghfghfg </button1>
+                        
+                    </span>
+                    <span class="topics">
+                        <h4>Recommended topics</h4>
+                        <button type="button">Technology</button>
+                    </span>
+                    <span class="profili">
+                        <img src="" alt="">
+                        <h6>Lessig</h6>
+                        <div class="follow"><button type="button">Follow</button></div>
+                    </span>
+                    <footer class="bottom">
+                        Help Status Writes Blog Careers Privacy Terms About
+                    </footer>
+                </div>
+            </section>
+                
+        </main>
+        
+       
+
+            
+        
+    </body>
